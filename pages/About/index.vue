@@ -1,7 +1,5 @@
 <template>
-    <div>
-        header
-    </div>
+  <Content/> 
 </template>
 
 <script setup lang="ts">

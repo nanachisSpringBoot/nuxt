@@ -1,7 +1,5 @@
 <template>
-    <div>
-        my profile
-    </div>
+  <Content/> 
 </template>
 
 <script setup lang="ts">

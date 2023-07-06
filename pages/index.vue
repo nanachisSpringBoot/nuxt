@@ -1,16 +1,9 @@
 <template>
-    <div>
-        index Page
-        <Header/>
-        <Alert/>
-        <Profile/>
+    <div class="bg-white">
+      <Content/> 
     </div>
-</template>
-
-<script setup lang="ts">
+  </template>
+  
+  <script>
 
 </script>
-
-<style scoped>
-
-</style>
